@@ -1,0 +1,29 @@
+To do list
+1. add event handler
+2. get input values
+3. add the new item to our data structure
+4. add the new item to the UI
+5. calcuate budget
+6. update the UI
+---------------------------------------------
+Structuring our Code with Modules
+
+modules:
+1. important aspect of any robust application's architecture
+2. keep the units of code for a project both cleanly separated and organized
+3. Encapsulate some data into privacy and expose other data publicly.
+-----------------------------------------------
+1. UI module
+    get input values
+    add the new item to the UI
+    update the UI
+2. DATA module
+    add the new item to our data structure
+    calculate budget
+3. controller module
+    add event handler
+    
+    
+    
+-------------------------------------
+this project practices module pattern, about private and public data, encapsulation and separation of concerns.
